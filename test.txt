@@ -1,1 +1,5 @@
+obs:
+
 pip instal para problema de import do flask
+
+chrome web store "postman" para fazer uns testes
